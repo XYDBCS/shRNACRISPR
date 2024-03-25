@@ -7,7 +7,8 @@ The file "Step 5" shows the scatter plot of the gene essentiality score and gene
 The file "Step 6" shows the comparison of all the essential and nonessential genes identified by shRNA and CRISPR under 8 groups.
 
 #ENVIRONMENT
-Python 3.6.13
+
+#Python 3.6.13
 
 Tensorflow 1.14
 
